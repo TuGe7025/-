@@ -1,0 +1,30 @@
+[{
+    "name":"泰国其脆牌原味烤椰子片40g",
+    "img0":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/li0.jpg",
+    "img1":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/li1.jpg",
+    "bq":"li",
+    "index":"2"
+},{
+    "name":"香港MABA淮山脆片（原味）168g",
+    "img0":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/ys0.jpg",
+    "img1":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/ys1.jpg",
+    "img2":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/ys2.jpg",
+    "img3":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/ys3.jpg",
+    "index":"4",
+    "bq":"ys"
+},{
+    "name":"香港富崎乐黑椒猪肉脯120g",
+    "img0":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/zr0.jpg",
+    "img1":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/zr1.jpg",
+    "img2":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/zr2.jpg",
+    "img3":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/zr3.jpg",
+    "index":"4",
+    "bq":"zr"
+},{
+    "name":"澳大利亚森脉SAN798赤霞珠干红750ml",
+    "img0":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/sna0.jpg",
+    "img1":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/sna1.jpg",
+    "img2":"http://localhost:8866/node/mygulp/src/indexjson/sopimg/sna2.jpg",
+    "index":"2",
+    "bq":"sna"
+}]

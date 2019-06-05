@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/register.css">
+</head>
+<body>
+    <!-- 注册页面 -->
+    <div class="amdin-register-bg">
+        <img style="position:fixed;width:100%;height:100%;" src="images/admin-re-bg.jpg">
+    </div>
+    <div class="amdin-register-main"></div>
+    <forms id="s_form" method="post" name="regist_form action=""">
+        <div class="amdin-register-nr">
+            <ul>
+                <li>
+                    <img src="images/logo_login.png">
+                </li>
+                <li class="amdin-register-nr-wz">
+                    登录<span>还没有账号？
+                        <a href="zhuce.html">注册</a>
+                    </span>
+                </li>
+                <li>
+                    <h2><img src="images/register_01.png"></h2>
+                    <input type="text" class="amdin-register-nr-k" id="user" name="mobile" maxlength="">
+                    <div class="admin-register-ts">请输入用户名</div>
+                    <div id="p_chk"></div>
+                </li>
+                <li id="phone_tips" class="ht">
+                    <!-- <img src="images/login_error.png">
+                    <b>请输入正确的用户名</b> -->
+                </li>
+                <li>
+                    <h2><img src="images/register_02.png"></h2>
+                    <input type="password" class="amdin-register-nr-k" id="pass" name="pass" maxlength="">
+                    <div class="admin-register-ts">请输入密码</div>
+                    <div id="pwdchk"></div>
+                </li>
+                <li id="pwd_tips" class="ht">
+                    <!-- <img src="images/login_error.png">
+                    <b>密码为6-16位的数字，数字或下划线组成</b> -->
+                </li>
+                <li>
+                    <div class="squaredTwo">
+                        <input type="checkbox" value="None" id="squaredTwo" name="check" checked />
+                        <label for="squaredTwo" class="label"></label>
+                    </div>
+                    <h1>记住我</h1>
+                </li>
+
+                <li>
+                    <a href="##">
+                        <div class="amdin-login">
+                            <font>登录</font>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </form>
+    <!-- 弹出协议 -->
+
+</div>
+</body>
+<script src="libs/require.js"></script>
+<script src="js/verify-mod.js"></script>
+</html>

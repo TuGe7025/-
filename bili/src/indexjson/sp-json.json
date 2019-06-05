@@ -1,0 +1,175 @@
+[{
+    "id":"f1",
+    "name":"海南精选荔枝1kg",
+    "price":"39.8",
+    "_price":"￥46",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f1",
+    "name":"海南小台芒1kg",
+    "price":"23.8",
+    "_price":"￥36.8",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/1453r26fVc073i086b8b4760.jpg"
+},{
+    "id":"f1",
+    "name":"台湾水仙芒2kg",
+    "price":"51.8",
+    "_price":"￥58",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/201504241123553052.jpg"
+},{
+    "id":"f1",
+    "name":"澳芒7kg",
+    "price":"468",
+    "_price":"￥689",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/a993f8f60eb34d039db9f183be15c406.jpg"
+},{
+    "id":"f1",
+    "name":"北京空运早春水蜜桃4个装",
+    "price":"46.8",
+    "_price":"￥59",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/47c4dc78a052440eaca26cec370832d6.jpg"
+},{
+    "id":"f1",
+    "name":"北京空运水蜜桃8个装",
+    "price":"79.8",
+    "_price":"￥88",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/47c4dc78a052440eaca26cec370832d6.jpg"
+},{
+    "id":"f1",
+    "name":"泰国山竹1kg",
+    "price":"42.8",
+    "_price":"￥48",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/771c08460Y1IbMvrq86N3W5.jpg"
+},{
+    "id":"f1",
+    "name":"泰国山竹2.5kg",
+    "price":"98",
+    "_price":"￥128",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/771c08460Y1IbMvrq86N3W5.jpg"
+},{
+    "id":"f1",
+    "name":"泰国金枕头榴莲4-5斤",
+    "price":"178",
+    "_price":"￥198",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/1451PstW1Uu6t82Us4g33047.jpg"
+},{
+    "id":"f1",
+    "name":"泰国金枕头榴莲5-7斤",
+    "price":"218",
+    "_price":"￥238",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/1451PstW1Uu6t82Us4g33047.jpg"
+},{
+    "id":"f1",
+    "name":"海南西州蜜瓜4kg",
+    "price":"58.8",
+    "_price":"￥78.8",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/17663Gx1hOm7I8DR482FUs8O.jpg"
+},{
+    "id":"f1",
+    "name":"甘美西瓜1个装（6.5-7.5斤）",
+    "price":"59.8",
+    "_price":"￥66.8",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/48a3895dea324ce8a0288997fa384eb4.jpg"
+},{
+    "id":"f2",
+    "name":"依谷（精品）京包菜500g",
+    "price":"6.6",
+    "_price":"￥7.9",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"依谷精选基地番茄400g",
+    "price":"8.9",
+    "_price":"￥11",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"依谷（精品）带刺青瓜550g",
+    "price":"12.5",
+    "_price":"￥14.9",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"美益精品无公害肋排550g",
+    "price":"59.9",
+    "_price":"￥69.9",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"依谷原生态清远鸡1200g",
+    "price":"99",
+    "_price":"￥128",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"红油咸鸭蛋礼盒装（4*4枚）",
+    "price":"39.6",
+    "_price":"￥58",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"泰国山竹1kg",
+    "price":"42.8",
+    "_price":"￥48",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"泰国山竹2.5kg",
+    "price":"98",
+    "_price":"￥128",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"泰国金枕头榴莲4-5斤",
+    "price":"178",
+    "_price":"￥198",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"泰国金枕头榴莲5-7斤",
+    "price":"218",
+    "_price":"￥238",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"海南西州蜜瓜4kg",
+    "price":"58.8",
+    "_price":"￥78.8",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f2",
+    "name":"甘美西瓜1个装（6.5-7.5斤）",
+    "price":"59.8",
+    "_price":"￥66.8",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/276e2e808d2941f58ce557629da84e13.jpg"
+},{
+    "id":"f0",
+    "name":"泰国其脆牌原味烤椰子片40g",
+    "price":"￥ 9.90",
+    "_price":"￥ 11.5",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/0d64c20d8e18481dacee70f79852c966.jpg"
+},{
+    "id":"f0",
+    "name":"五芳斋绿豆糕简约装（原味25g*4只）",
+    "price":"￥ 13.80",
+    "_price":"￥ 14.80",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/672f1363f439443b92cc93ecad3e604a.jpg"
+},{
+    "id":"f0",
+    "name":"香港MABA淮山脆片（原味）168g",
+    "price":"￥ 13.80",
+    "_price":"￥ 16",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/089f16e9c2e344a4bfb5e6d1eb605c85.jpg"
+},{
+    "id":"f0",
+    "name":"香港富崎乐黑椒猪肉脯120g",
+    "price":"￥ 22.8",
+    "_price":"￥ 25",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/6145b9c345674721b7756cce2520cd85.jpg"
+},{
+    "id":"f0",
+    "name":"澳大利亚森脉SAN798赤霞珠干红750ml",
+    "price":"￥ 298",
+    "_price":"￥ 368",
+    "src":"http://localhost:8866/node/mygulp/src/indexjson/images/96bb41923ddd4b01940de5f31ac2a74f.jpg"
+}]
