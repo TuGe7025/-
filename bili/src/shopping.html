@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/public.css" type="text/css"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
+  
+</head>
+<script src="js/jquery.2.2.4.js"></script>
+<body>
+    <div id="header"></div>
+    <div id="shopping">
+        <div id="index-content">
+            <div class="index-content clear">
+                <div class="cart cart-t">
+                    <div class="cart-nr">
+                        <div class="cart-nr-ti">
+                            <div class="cart_tit_l dyq_index">
+                                <input id="ckbox1" type="checkbox" value="0" class="cart_checkbox fl" checked="checked">
+                                <a class="fl label">全选</a>
+                            </div>
+                            <div class="span-right">
+                                <span class="price">单价</span> 
+                                <span class="num">数量</span> 
+                                <span class="span_li_sub">合计</span> 
+                                 <span class="span_li_w">操作</span>
+
+                            </div>
+                        </div>
+                    <form action="/cart/settlement.action" method="post" name="eform" id="eform">
+                    
+                        </form>
+                        <br>
+                    </div>
+                    <div id="data">
+                            <table border="1" cellspacing="0" width="1200" align="center" class="tab">
+                                    <tbody>
+                                        <!-- <tr>
+                                            <td class="w1"><input type="checkbox"></td>
+                                            <td class="img0"><img src="" alt=""></td>
+                                            <td class="name"></td>
+                                            <td class="price">单价</td>
+                                            <td class="num"><b class="b-left">-</b><input class="numval" type="text" value="1" readonly><b class="b-right">+</b></td>
+                                            <td class="span_li_sub">合计</td>
+                                 
+                                            <td class="span_li_w"><span>删除</span></td>
+                                        </tr> -->
+                                    </tbody>
+                                </table>
+                        <!-- <em class="float-left text-center w10 padding-top">
+                            <img src="static/images/cart_k.png" width="50">
+                          </em>
+                        <em class="float-left text-center w10 padding-t-5 text-c">你的购物车空空的，赶紧选购吧！</em> -->
+                    </div>
+                </div>
+                <div class="cart">
+                    <div class="cart-nr cart-nr-zj">
+                        <div class="cart-x cart-qx">
+                            <input id="ckbox2" type="checkbox" value="0.00" class="cart-checkbox-zj fl">
+                            <em class="cart-nr-zj-qx cart-qx">计算总价</em>
+                        </div>
+                        <em class="cart-nr-zj-qx cart-nr-zj-w"><a href="index.html">继续购物</a></em> <em class="cart-nr-zj-botton"><a>去结算</a></em>
+                        <div class="cart-nr-zj-ri">
+                            <em class="cart-nr-zj-ri-jq">商品总价：<em class="cart-nr-zj-js"> ￥0.00</em></em>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="footer"></div>
+</body>
+<script src="js/require.js"></script>
+<script src="js/hqcookie.js"></script>
+<script>
+    $(function(){
+        $("#header").load("http://localhost:8866/node/mygulp/src/html-header/header.html .header");
+        $("#footer").load("http://localhost:8866/node/mygulp/src/html-header/footer.html .footer");
+    })
+</script>
+
+
+
+</html>

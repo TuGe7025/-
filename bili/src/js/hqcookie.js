@@ -5,14 +5,14 @@ require.config({
     paths:{
         jqban:"jquery.banner.2.0",
         cookie:"jquery.cookie",
-        ban:"../module/mod-addshow",
         yh:"../module/mod-yh",
-        spg:"../module/mod-shopping"
+        splist:"../module/shopping",
+        sop:"../module/mod-shopping"
     }
 })
-require(["jqban","cookie","ban","yh","spg"],function(jqban,cookie,ban,yh,spg){
-    
-    new spg.sohop();
+require(["jqban","cookie","yh","splist","sop"],function(jqban,cookie,yh,splist,sop){
+    // console.log(cookie);
+    new sop.sohop();
     new yh.modyh();
-    new ban.add();
+    new splist.list();
 });
