@@ -21,7 +21,6 @@ define(function(){
                 }else{
                     alert("请登入后结算!")
                     window.location.href="../server-reg/denlv.html";
-                 
                 }
                }else{
                    alert("请勾选计算总价!");

@@ -10,6 +10,7 @@ define(function(){
             this.setAjax();
             //楼层效果
             this.lou();
+
             //判断用户是否登入
             $(document).ready(function(){
                 if($.cookie("yh")){
@@ -74,7 +75,6 @@ define(function(){
                     console.log($.cookie(that.sop));
                     window.location.href="particulars.html";
                 })
-                
               });
         }
         addmove(f,rel){

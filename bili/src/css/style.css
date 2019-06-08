@@ -1451,7 +1451,7 @@ background-color:#16e9c6;
 }
 .cpinfo-right {
     overflow: hidden;
-    width: 1116px;
+    width: 100%;
     margin:0 auto;
 }
 .cplmt {

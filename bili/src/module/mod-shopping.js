@@ -70,6 +70,7 @@ define(function(){
             // console.log(data)
             var that = this;
             this.name = data.name;
+            // console.log(this.name)
             this.jia.on("click",function(){
                 that.num++;
                 that.number.val(that.num);
@@ -172,17 +173,19 @@ define(function(){
                             str += `<img src="http://localhost:8866/node/mygulp/src/indexjson/sopimg/${data[mun].bq}${j}.jpg">`;
                             sbtn +=`<li><img src="http://localhost:8866/node/mygulp/src/indexjson/sopimg/${data[mun].bq}${j}.jpg"></li>`;
                         }
-                        $(".cp-attr").find("h3").html(data[mun].name);
-                        $(".cp-attr").find("font").html(data[mun].price);
-                        $(".cp-attr").find("i").html(data[mun]._price);
-                        $(".gg").find("li").html(data[mun].spe);
+                        $(".cp-attr").find("h3").append(data[mun].name);
+                        $(".cp-attr").find("font").append(data[mun].price);
+                        $(".cp-attr").find("i").append(data[mun]._price);
+                        $(".gg").find("li").append(data[mun].spe);
                     }
                 })(i)
             }
             str += `<span></span>`;
-            this.boxmax.html(str)
-            this.imgbox.html(str)
-            this.btnimg.html(sbtn)
+
+            this.boxmax.append(str)
+            this.imgbox.append(str)
+            this.btnimg.append(sbtn)
+
         }
         display(data){
             this.str = "";
