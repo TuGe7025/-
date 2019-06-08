@@ -1,6 +1,8 @@
+姓名：黄向
 网站首页:src/index.html
 详情页面:src/particulars.html
 购物车:shopping.html
+github:https://github.com/TuGe7025/-
 -------------------------------------------
 module文件夹内
 mod-addshow.js 	轮播图功能
